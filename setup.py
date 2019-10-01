@@ -57,8 +57,8 @@ def zip_folder(folder_path, output_path):
     zip_file.close()
 
 try:
-    shutil.copyfile('LICENSE', 'build/exe.win-amd64-3.6/LICENSE')
-    shutil.copyfile('SOURCE', 'build/exe.win-amd64-3.6/SOURCE')
+    shutil.copyfile('Copyright � 2018 DIGITALARC, ALL RIGHTS RESERVED', 'build/exe.win-amd64-3.6/Copyright � 2018 DIGITALARC, ALL RIGHTS RESERVED')
+#    shutil.copyfile('SOURCE', 'build/exe.win-amd64-3.6/SOURCE')
 except:
     pass
 
