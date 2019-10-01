@@ -1,0 +1,18 @@
+{
+  "custom_ips": [
+    {
+      "name": "asd",
+      "ip": "1.1.1.1",
+      "enabled": true
+    }
+  ],
+  "blacklist": [
+    {
+      "name": "asdf",
+      "ip": "1.1.1.1",
+      "enabled": true
+    }
+  ],
+  "config": [],
+  "friends": []
+}
